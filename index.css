@@ -223,8 +223,8 @@ body {
 }
 .buttons{
   display: flex;
+	justify-content: center;
   align-items: center;
-	padding-left: 33%;
 }
 .linkedbutton{
   cursor: pointer;
