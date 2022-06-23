@@ -4,8 +4,8 @@
 
 /* Set a background color */
 body {
-  background-color: #9d1f3c;
-  font-family: Helvetica, sans-serif;
+  background-color: grey;
+  font-family: 'Trebuchet MS', sans-serif;
 }
 
 .heading{
@@ -13,7 +13,7 @@ body {
 }
 .title {
 	font-size: 60px;
-	color: #eaaa00;
+	color: black;
 	padding-bottom: 1%;
 
 }
@@ -31,7 +31,7 @@ body {
   border-radius: 10px;
 }
 .resume:hover{
-	background-color: #eaaa00;
+	background-color: blue;
 }
 
 .restext{
@@ -41,7 +41,7 @@ body {
 
 .devjourney{
 	font-size: 35px;
-	color: #eaaa00;
+	color: black;
 	padding-top: 5%;
 }
 
@@ -81,7 +81,7 @@ body {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #eaaa00;
+  border: 4px solid black;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -187,9 +187,9 @@ body {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid #eaaa00;
+  border: medium solid #9d1f3c;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #eaaa00;
+  border-color: transparent transparent transparent #9d1f3c;
 }
 /* Fix the circle for containers on the right side */
 .right::after {
@@ -219,7 +219,7 @@ body {
 }
 
 .oberlin {
-	background-color: #eaaa00;
+	background-color: #9d1f3c;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
