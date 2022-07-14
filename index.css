@@ -4,7 +4,7 @@
 
 /* Set a background color */
 body {
-  background-color: grey;
+  background-image: linear-gradient(#2a9d8f, #264653);
   font-family: 'Trebuchet MS', sans-serif;
 }
 
